@@ -28,4 +28,4 @@ start server</br>
 (✔) Corrigir erro com clearTimeout.<br/>
 (✔) Estilizar app.<br/>
 
-[View do projeto](./view.png)
+![View do projeto](./view.png)
