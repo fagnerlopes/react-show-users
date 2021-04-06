@@ -41,7 +41,7 @@ export default class App extends Component {
     const { showUsers, users } = this.state;
 
     return (
-      <div>
+      <div className="container">
         <div>
           <h3>React Lifecycle</h3>
           <Toggle 
